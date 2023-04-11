@@ -31,7 +31,7 @@ This is a simple Telegram Music Bot made using the Pyrogram library in Python. I
 ## Installation
 1. Clone the repository:
    ```sh
-   https://github.com/Telugucoders/AmalaMusic
+   https://github.com/daanavbots/AmalaMusic
 2. Change directory
    ```sh
    cd AmalaMusic
@@ -68,7 +68,7 @@ This is a simple Telegram Music Bot made using the Pyrogram library in Python. I
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
 <pre>
 <b>Amala Music</b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/Telugucoders/AmalaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/daanavbots/AmalaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 
 
