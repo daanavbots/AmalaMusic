@@ -1,5 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://graph.org/file/7d71ea16ab3c795806bde.jpg" alt="Telugu Coders Music Bot Logo" width="200" height="200">
